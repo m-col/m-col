@@ -19,5 +19,5 @@ Find me around the WWW
 - mcol.xyz
 - mastodon
 
-.. image:: https://github-readme-stats.vercel.app/api?username=m-col
+.. image:: https://github-readme-stats.vercel.app/api?username=m-col&count_private=true
    :alt: mcol's GitHub stats
