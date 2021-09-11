@@ -7,6 +7,7 @@ Matt Colligan : neuroscientist and programmer.
 | ⚗️ Currently learning Elixir + Pheonix
 | 🐘 In the fediverse: `mcol@fosstodon.org`_
 | 🌐 On the web: mcol.xyz_. Most of my code is over there.
+|
 
 .. image:: https://github-readme-stats.vercel.app/api?username=m-col&count_private=true&theme=radical
    :alt: mcol's GitHub stats
