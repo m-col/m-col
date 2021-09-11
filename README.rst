@@ -1,7 +1,4 @@
-
-=======
-
-Matt Colligan : neuroscientist and programmer.
+matt_colligan = neuroscientist & programmer
 
 | 🧠 Usually working on Qtile_ or some Acceptable_ software.
 | ⚗️ Currently learning Elixir + Pheonix.
