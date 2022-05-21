@@ -2,7 +2,7 @@ matt_colligan = neuroscientist & programmer
 
 | 🧠 Usually working on Qtile_ or some Acceptable_ software.
 | ❤ Loves Haskell and Wayland.
-| ⚗️ Currently learning Rust & Elixir.
+| ⚗️ Currently learning more Haskell. There is always more.
 | 🐘 In the fediverse: `mcol@fosstodon.org`_.
 | 🌐 On the web: mcol.xyz_. Most of my code is over there.
 |
