@@ -1,16 +1,22 @@
-matt_colligan = neuroscientist & programmer
+.. code-block:: haskell
 
-| 🧠 Usually working on Qtile_ or some Acceptable_ software.
-| ❤ Loves Haskell and Wayland.
-| ⚗️ Currently learning more Haskell. There is always more.
-| 🐘 In the fediverse: `mcol@fosstodon.org`_.
-| 🌐 On the web: mcol.xyz_. Most of my code is over there.
-|
+    instance User MC where
+        type Dev MC = (FOSS, Neuroscience)
+
+        loves = [Wayland, Python, Haskell]
+        studying = [Haskell] >>= 🧠
+
+        working =
+            case now of
+                Night -> Qtile
+                Day -> Thesis
+
+        links =
+            Links
+                { fediverse = "mcol@fosstodon.org"
+                , web = "mcol.xyz"
+                , repos = "mcol.xyz/code"
+                }
 
 .. image:: https://github-readme-stats.vercel.app/api?username=m-col&count_private=true&title_color=fff&icon_color=79ff97&text_color=fefefe&bg_color=0a0c10&hide_title=true
    :alt: mcol's GitHub stats
-
-.. _Qtile: https://github.com/qtile/qtile
-.. _Acceptable: https://github.com/acceptablesoftware
-.. _`mcol@fosstodon.org`: https://fosstodon.org/@mcol
-.. _mcol.xyz: https://mcol.xyz
