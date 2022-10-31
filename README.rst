@@ -9,7 +9,7 @@
         working =
             case now of
                 Night -> Qtile
-                Day -> Thesis
+                Day -> Improbable
 
         links =
             Links
